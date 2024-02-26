@@ -6,7 +6,7 @@ public class Main {
         System.out.println("hii i am hala koni");
         System.out.println("hii i am raya break");
 
-        System.out.println("hii i am hiiii");
+        System.out.println("hii hiiii");
 
     }
 }
